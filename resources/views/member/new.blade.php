@@ -23,8 +23,8 @@
             <div class="column">
                 <div class="field">
                     <p class="control">
-                        <label class="radio"><input type="radio" name="gender" value="0" checked>男</label>
-                        <label class="radio"><input type="radio" name="gender" value="1">女</label>
+                        <label class="radio"><input type="radio" name="gender" value="1" checked>男</label>
+                        <label class="radio"><input type="radio" name="gender" value="0">女</label>
                     </p>
                 </div>
             </div>
