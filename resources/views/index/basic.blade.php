@@ -51,10 +51,9 @@
 		<footer class="footer">
 			<div class="container">
 				<div class="content has-text-centered">
-					<p>Copyright &copy; 2017 <a href="http://www.qkteam.com">QKTeam</a></p>
+					<p>Copyright &copy; 2019 <a href="http://www.qkteam.com">QKTeam</a></p>
 					<p>
 						<a class="icon" target="_blank" href="https://github.com/QKTeam"><i class="fa fa-github"></i></a>
-						<a class="icon" target="_blank" href="http://git.qkteam.com"><i class="fa fa-gitlab"></i></a>
 					</p>
 				</div>
 			</div>
